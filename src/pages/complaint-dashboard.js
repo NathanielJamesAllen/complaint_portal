@@ -3,6 +3,7 @@ import { Box, Grid, Typography, CircularProgress, Table, TableBody, TableCell, T
 import { PieChart, Pie, ResponsiveContainer, Cell, Tooltip, Legend } from "recharts"
 import { getComplaints } from "../helpers/apiEndpoints"
 
+
 const ComplaintDashboard = () => {
     const [showProgress, setShowProgress] = useState(false)
     const [chartDataStatusDay, setChartDataStatusDay] = useState([])
