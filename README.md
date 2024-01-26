@@ -1,3 +1,7 @@
+# complaint_portal
+
+React web application that displays useful metrics like complaint status and type on a daily, weekly, and monthly basis.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
